@@ -10,15 +10,15 @@ I'm a passionate website and software developer from <strong>Kenya 🇰🇪</str
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 Information Technology Student
+|About Me                        |
+|--------------------------------|
+|Information Technology Student  |
 
 ---
 
-### ⚡ Fun fact
-
-I enjoy turning complex ideas into simple, user-friendly applications.
+|Fun fact                                                              |
+|----------------------------------------------------------------------|
+|I enjoy turning complex ideas into simple, user-friendly applications |
 
 ---
 
@@ -30,9 +30,9 @@ I enjoy turning complex ideas into simple, user-friendly applications.
 
 ---
 
-### 🎯 2026 Goals
-
-- 🌍 Contribute more to open source
+|My Goals                       |
+|-------------------------------|
+|Contribute more to open source |
 
 ---
 
