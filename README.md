@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Frank Marvin 👋</h1>
 
 <h3 align="center">
-Information technology Student • Full Stack Developer • AI Enthusiast
+Information Technology Student
 </h3>
 
 <p align="center">
@@ -13,7 +13,6 @@ I'm a passionate website and software developer from <strong>Kenya 🇰🇪</str
 ### 👨‍💻 About Me
 
 - 🎓 Information Technology Student
-- 🤖 Passionate about Artificial Intelligence and Automation
 
 ---
 
