@@ -23,29 +23,11 @@ I enjoy turning complex ideas into simple, user-friendly applications.
 
 ---
 
-### 🔭 Currently Working On
-
-- 🎓 DallaGPA Calculator System
-- 🤖 Dalla-AI Assistant
-- 🏫 MySmartHomes-254
-
----
-
-### 🌱 Currently Learning
-
-- ⚙️ CI/CD with GitHub Actions
-- 📊 Data Structures & Algorithms
-- 🌐 Web Performance & SEO Optimization
-                              
----
-
-### 💡 Interests
-
-- Artificial Intelligence
-- Backend Engineering
-- UI/UX Design
-- Software Architecture
-- Open Source
+|Currently Working On       | Currently Learning           | Intrests               |
+|---------------------------|------------------------------|------------------------|
+|DallaGPA Calculator System | Data Structures & Algorithms | Artificial Inteligence |
+|Dalla-AI Assistant         | Web Performance              | UI\UX Design           |
+|MySmartHomes-254           | SEO Optimization             | Software Architect     |
 
 ---
 
