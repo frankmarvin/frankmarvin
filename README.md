@@ -8,7 +8,7 @@ I'm a passionate software developer from **Kenya** who enjoys building modern, s
 
 ---
 
-## 🚀 What I Do
+# 🚀 What I Do
  - 🌐 Build modern **full-stack web applications**
  - ⚛️ Develop applications using **React, TypeScript, JavaScript, and Vite**
  - 🖥️ Build backend systems with **Node.js, Express, and REST APIs**
@@ -17,7 +17,7 @@ I'm a passionate software developer from **Kenya** who enjoys building modern, s
 
 ---
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/FrankMarvin27) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frank_marvin1) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marvinfrank2680@gmail.com) 
@@ -36,22 +36,25 @@ I'm a passionate software developer from **Kenya** who enjoys building modern, s
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=frankmarvin&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+# 🏆 GitHub Trophies
+![](https://vercel.app)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=frankmarvin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 🔝 Top Contributed Repo
+![](https://vercel.app)
 
 ---
-[![](https://komarev.com/ghpvc/?username=frankmarvin&icon=9&color=3)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+[![Profile views](https://komarev.com)](https://itsvg.in)
+
+---
+
+# 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Otieno Frank) 
 
   ---
   
   
-                                                       Proudly created with OTIENO MARVIN FRANK
+                                                    Proudly Created with ❤️ from 🇰🇪 By: OTIENO MARVIN FRANK
