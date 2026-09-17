@@ -30,9 +30,10 @@ I'm a passionate software developer from **Kenya** who enjoys building modern, s
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=frankmarvin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=frankmarvin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=frankmarvin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://shion.dev)<br/>
+![](https://demolab.com)<br/>
+![](https://shion.dev)
+
 
 ---
 
