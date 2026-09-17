@@ -29,14 +29,6 @@ I'm a passionate software developer from **Kenya** who enjoys building modern, s
 
 ---
 
-# 📊 GitHub Stats:
-![](https://shion.dev)<br/>
-![](https://demolab.com)<br/>
-![](https://shion.dev)
-
-
----
-
 ### ✍️ Random Dev Quote
 > "Because we are uncertain about our scheduling estimates, we 
 > often lack the courage to defend them stubbornly against 
